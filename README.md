@@ -1,0 +1,1 @@
+A console-based Hackathon Management System built in Java. Features team registration with data validation, project scoring, team search functionality, and automatic winner declaration utilizing core OOP concepts, arrays, and control structures.
