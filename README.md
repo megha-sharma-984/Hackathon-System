@@ -16,7 +16,7 @@ A console-based **mini project** developed in Java to simulate a Hackathon Manag
 - Java
 - Object-Oriented Programming (OOP)
 
-## Concepts Used
+## Java Concepts Demonstrated
 
 - Conditional Statements
 - Loops
